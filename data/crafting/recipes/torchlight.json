@@ -3,7 +3,7 @@
     "group": "llb",
     "ingredients": [
         {
-            "item": "minecraft:glowstone_dust"
+            "item": "minecraft:torch"
         },
         {
             "item": "minecraft:glass_bottle"

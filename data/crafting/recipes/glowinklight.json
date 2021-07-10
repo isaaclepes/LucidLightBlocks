@@ -1,19 +1,14 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "minecraft:crafting_shapeless",
     "group": "llb",
-    "pattern": [
-        "###",
-        "#B#",
-        "###"
-    ],
-    "key": {
-        "#": {
+    "ingredients": [
+        {
             "item": "minecraft:glow_ink_sac"
         },
-        "B": {
+        {
             "item": "minecraft:glass_bottle"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:light",
         "count": 1
