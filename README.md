@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/54421422/125177137-a258ba80-e196-11eb-8c39-e2cdcab0fb3b.png)
 <br />
 <br />
-These recipes are grouped in the recipe book
+These recipes are grouped in the recipe book<br />
 ![image](https://user-images.githubusercontent.com/54421422/125177226-3dea2b00-e197-11eb-9f1d-556729d224c0.png)
 
 
