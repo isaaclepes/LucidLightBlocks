@@ -9,3 +9,5 @@ This datapack only adds 2 recipies, but the vanilla behavior of lights allow you
 Change the light level - simply right-click the placed light block with a light item in your hand. This does not consume the item<br />
 Replace a light blockwith any other block. (Light blocks act like air, just place any other block on the space they inhabit.<br />
 Light blocks can be waterlogged.<br />
+
+More information on light blocks: https://minecraft.fandom.com/wiki/Light_Block
