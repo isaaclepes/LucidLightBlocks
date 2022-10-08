@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/54421422/194724452-030c412d-2c36-44c2-b214-0fde9c8c9fac.png" width="200" height="200" class="center">
+
 # Lucid Light Blocks
  Adds crafting recipes for 1.17 light blocks<br />
 ![image](https://user-images.githubusercontent.com/54421422/125177113-82c19200-e196-11eb-8094-467da91b2c85.png)
